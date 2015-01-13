@@ -1,6 +1,0 @@
-Arrival rate (Lambda),1.7
-Mean service time 1/µP (sec),0.1
-Mean service time 1/µS (sec),0.2
-Mean service time 1/µAS (sec),0.5
-Total number of departures,31000
-The number of batches,30
