@@ -1,0 +1,14 @@
+IMS simulation results
+-----------------------------------
+Mean of end-to-end delay without using batch means : 5.11918193548
+95th percentile without using batch means : 12.4405
+
+
+Mean of batches : 5.12011391586
+Sts.Dev of Mean : 3.68403211547
+Confidence interval of Mean : [4.895125132881641, 5.3451026988335704]
+
+
+Tmean of batches : 11.4403833333
+Standard deviation of Tmean 3.25578585159
+Confidence interval Tmean : [11.2415481241334, 11.639218542533479]
